@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Otomanopee One', sans-serif;
+}
+#live{
+    color: rgb(7, 1, 14);
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 150px;
+    background-color: darkblue;
+    padding: 15px 40px;
+    border-radius: 15px;
+}
+.top-details img{
+    width: 80%;
+}
+.font{
+    color: white;
+    font-size: 50px;
+}
+.top-details{
+    width: 60%;
+    padding-left: 6%;
+    padding-bottom: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, skyblue);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    front-weight: 5px;
